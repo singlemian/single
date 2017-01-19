@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am master
+=======
+i am single
+>>>>>>> single
